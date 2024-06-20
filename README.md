@@ -1,1 +1,1 @@
-# GitHub repository template
+# Fun117 CDN site
